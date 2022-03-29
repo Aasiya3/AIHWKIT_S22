@@ -1,0 +1,18 @@
+# Meeting Notes March 23rd, 2022
+### Next Steps
+
+- Finish background/education on transformers
+  - Resources:
+  - "Attention is all you need" paper: https://arxiv.org/abs/1706.03762
+  - https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0
+  - A good tutorial about implementing the transformer paper from scratch: https://www.youtube.com/watch?v=U0s0f995w14
+  - A very good illustrative guide to transformer architectures: https://www.youtube.com/watch?v=4Bdc55j80l8
+  
+  
+- Take this course to learn more about deep learning:
+  - Deep Learning Free class: https://uvadlc-notebooks.readthedocs.io/en/latest/index.html 
+  - with video recording and interactive Jupyter notebooks
+
+- Look into implementation of the CNN and LSTM analog examples in the github
+  
+Next meeting March 30th, 2022.
